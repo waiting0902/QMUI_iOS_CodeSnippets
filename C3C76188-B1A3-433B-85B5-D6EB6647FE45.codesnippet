@@ -3,21 +3,24 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>me</string>
+	<string>cget</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>mas_equalTo(&lt;#code#&gt;);</string>
+	<string>?: ({
+    
+});
+return &lt;#code#&gt;;</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>667A42F6-E6DF-49A2-AC63-C9A5024328EB</string>
+	<string>C3C76188-B1A3-433B-85B5-D6EB6647FE45</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetSummary</key>
 	<string></string>
 	<key>IDECodeSnippetTitle</key>
-	<string>mas_equalTo</string>
+	<string>C Get</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
